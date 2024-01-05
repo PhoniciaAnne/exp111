@@ -1,0 +1,7 @@
+git commands
+git 
+git int 
+git config --global user.name 'urname'
+git config --global user.email 'ur@email.com'
+git clone repository
+vim file 
